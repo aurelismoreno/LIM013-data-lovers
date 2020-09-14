@@ -148,7 +148,7 @@ p {
 	padding-top: 40px;
 	font-size: 18px;
 }
-
+/* ------------------------------ESTILOS RESPONSIVE  */
  @media (max-width: 768px) {
 	 select{
 		 font-size: 14px;

@@ -17,19 +17,20 @@
 
 ## 1. Definición de InfoPoke
 
-InfoPoke es un sitio web que proporciona información detallada sobre las características que hacen que tu Pokémon sea único. Utiliza InfoPoke para obtener más información acerca de las diferentes especies de Pokémon y sus evoluciones de las Generaciones de Kanto y Johto, brindando opciones como filtrar por tipo , generacion y cantidad de km para obtener huevos, ordenar ascendente y desendente de acuerdo a su nombre . InfoPoke esta desplegado usando [GitHub Pages]().
+InfoPoke es un sitio web que proporciona información detallada sobre las características que hacen que tu Pokémon sea único. Utiliza InfoPoke para obtener más información acerca de las diferentes especies de Pokémon y sus evoluciones de las Generaciones de Kanto y Johto, brindando opciones como filtrar por tipo , generacion y cantidad de km para obtener huevos, ordenar ascendente y desendente de acuerdo a su nombre . InfoPoke esta desplegado usando [GitHub Pages](https://github.io/aurelismoreno/LIM013-data-lovers/blob/master/src/index.html).
+
 
 ## 2. Objetivos de InfoPoke
 
-A medida que el jugador de pokemon avanza de nivel su busqueda de pokemon crece , y seguro querra encontrar y atrapar pokemon específicos para completar su pokedex , asi como conseguir Caramelo para fortalecer o evolucionar sus pokemon favoritos , Infopoke ofrece informacion detallata que ayuda al usuario a tener en cuenta durante su busqueda de pokemon como: su descripcion, region, tamaño, peso, vulnerabilidades, resistencias, estados y movimientos.
+A medida que el jugador de pokemon avanza de nivel su búsqueda de pokemon crece , y seguro querra encontrar y atrapar pokemon específicos para completar su pokedex , así como conseguir caramelos para fortalecer o evolucionar sus pokemon favoritos , Infopoke ofrece informacion detallata que ayuda al usuario a tener en cuenta durante su búsqueda de pokemon como: su descripción, regi/on, tamaño, peso, vulnerabilidades, resistencias, ataques y movimientos rápidos.
 
 ## 3. Quien es nuestro Usuario
 
-El público objetivo al que va dirigido InfoPoke es al sector de la población que se conoce como millennials también llamados generación Y, son un grupo de jóvenes que nacieron de los años Ochenta hasta los primeros años del 2000. Pokémon Go es considerado una revolución cultural. A medida que más personas se adhieran al juego, aumenta nuestro usuario principal que es aquel que tienen poco tiempo coleccionando o evolucionando pokemons y desean ampliar la cantidad de pokemons coleccionados en su pokedex con ayuda de la información que brinda InfoPoke.
+El público objetivo al que va dirigido InfoPoke es al sector de la población que se conoce como millennials también llamados generación Y, son un grupo de jóvenes que nacieron de los años Ochenta hasta los primeros años del 2000. Pokémon Go es considerado una revolución cultural, a medida que más personas se sumen al juego, aumenta nuestro usuario principal que es aquel que tienen poco tiempo coleccionando o evolucionando pokemons y desean ampliar la cantidad de pokemons coleccionados en su pokedex con ayuda de la información que brinda InfoPoke.
 
 ## 4. Definición de Historias de Usuario
 
-Para definir las historia de usuario entrevistamos a 5 usuarios de Pokemon Go , de acuerdo a sus respuestas consideramos que las historias de usuario que mas le aportan valor antes de salir a captuara pokemon son las siguientes :
+Para definir las historia de usuario entrevistamos a 5 usuarios de Pokemon Go que estan en los primeros niveles del juego, de acuerdo a sus respuestas consideramos que las historias de usuario que mas le aportan valor antes de salir a captuara pokemon son las siguientes :
 
 1.- Yo como jugador de Pokemón quiero ver todos los Pokemón para saber cuantos y cuales Pokemón necesito para completar la pokedex.
 2.- Yo como jugador de pokemon quiero poder filtrar mis pokemon de (A-Z)/(Z-A).para ordenarlos.
@@ -52,7 +53,7 @@ Para definir las historia de usuario entrevistamos a 5 usuarios de Pokemon Go , 
 
 ## 7. Organización del trabajo
 
-Para la organizacion y distribucion de trabajo en equipo utilizamos la herramienta trello [aqui](https://trello.com/b/xexFDDtJ/infopoke)
+Para la organizacion y distribucion de trabajo en equipo utilizamos la herramienta trello [aquí](https://trello.com/b/xexFDDtJ/infopoke)
 ## 8. Testeo de Usabilidad
 
 - Primer testeo Testeo realizado a 3 posibles usuarios con el prototipo mínimo viable
@@ -100,8 +101,8 @@ Usuario iniciando como jugador de pokemon y esta buscando información sobre los
 - [x] Manipular arrays (filter | map | sort | reduce)
 - [x] Manipular objects (key | value)
 - [x] Uso ES modules ([`import`] [`export`])
-- [ ] Diferenciar entre expression y statements.
-- [ ] Diferenciar entre tipos de datos atómicos y estructurados.
+- [x] Diferenciar entre expression y statements.
+- [x] Diferenciar entre tipos de datos atómicos y estructurados.
 
 ## 10. Checklist
 
@@ -123,4 +124,4 @@ Usuario iniciando como jugador de pokemon y esta buscando información sobre los
 - [x] UI: Muestra lista y/o tabla con datos y/o indicadores.
 - [x] UI: Permite ordenar data por uno o más campos (asc y desc).
 - [x] UI: Permite filtrar data en base a una condición.
-- [ ] UI: Es _responsive_.
+- [x] UI: Es _responsive_.

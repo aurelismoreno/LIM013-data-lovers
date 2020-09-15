@@ -75,6 +75,7 @@ const filtros = () => {
 	let arrayfiltrado = data.pokemon;
 
 	arrayfiltrado = filterDataType(arrayfiltrado, valueSelecttype);
+	console.log(arrayfiltrado);
 	arrayfiltrado = filterDataGeneracion(arrayfiltrado, valueSelectGene);
 	arrayfiltrado = filterDataEgg(arrayfiltrado, valueSelectEgg);
 	arrayfiltrado = orderData(arrayfiltrado, valueOrdenar);

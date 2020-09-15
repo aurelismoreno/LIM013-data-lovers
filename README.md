@@ -17,7 +17,7 @@
 
 ## 1. Definición de InfoPoke
 
-InfoPoke es un sitio web que proporciona información detallada sobre las características que hacen que tu Pokémon sea único. Utiliza InfoPoke para obtener más información acerca de las diferentes especies de Pokémon y sus evoluciones de las Generaciones de Kanto y Johto, brindando opciones como filtrar por tipo , generacion y cantidad de km para obtener huevos, ordenar ascendente y desendente de acuerdo a su nombre . InfoPoke esta desplegado usando [aquí](https://github.io/aurelismoreno/LIM013-data-lovers/blob/master/src/index.html).
+InfoPoke es un sitio web que proporciona información detallada sobre las características que hacen que tu Pokémon sea único. Utiliza InfoPoke para obtener más información acerca de las diferentes especies de Pokémon y sus evoluciones de las Generaciones de Kanto y Johto, brindando opciones como filtrar por tipo , generacion y cantidad de km para obtener huevos, ordenar ascendente y desendente de acuerdo a su nombre . InfoPoke esta desplegado usando [aquí](https://github.com/aurelismoreno.io/LIM013-data-lovers/blob/master/src/index.html).
 
 
 ## 2. Objetivos de InfoPoke
